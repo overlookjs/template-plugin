@@ -2,7 +2,6 @@
 [![Build Status](https://img.shields.io/travis/overlookjs/plugin-{{name}}/master.svg)](https://travis-ci.org/overlookjs/plugin-{{name}})
 [![Dependency Status](https://img.shields.io/david/overlookjs/plugin-{{name}}.svg)](https://david-dm.org/overlookjs/plugin-{{name}})
 [![Dev dependency Status](https://img.shields.io/david/dev/overlookjs/plugin-{{name}}.svg)](https://david-dm.org/overlookjs/plugin-{{name}})
-[![Greenkeeper badge](https://badges.greenkeeper.io/overlookjs/plugin-{{name}}.svg)](https://greenkeeper.io/)
 [![Coverage Status](https://img.shields.io/coveralls/overlookjs/plugin-{{name}}/master.svg)](https://coveralls.io/r/overlookjs/plugin-{{name}})
 
 # Overlook framework {{name}} plugin

@@ -24,7 +24,6 @@ describe('Plugin', () => {
 		// TODO Capitalize class name below
 		const {{name}}Route = Route.extend({{name}}Plugin);
 		expect({{name}}Route).toBeFunction();
-		expect(Object.getPrototypeOf({{name}}Route)).toBe(Route);
-		expect(Object.getPrototypeOf({{name}}Route.prototype)).toBe(Route.prototype);
+		expect({{name}}Route).toBeDirectSubclassOf(Route);
 	});
 });
